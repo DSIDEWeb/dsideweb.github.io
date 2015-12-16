@@ -1,6 +1,24 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+# Site navigation links
+
+- title: Immersive
+  url: http://www.github.com/dsideweb
+
+- title: Participants
+  url: http://www.github.com/dsideweb
+
+- title: Mentors
+  url: http://www.github.com/dsideweb
+
+- title: Partners
+  url: http://www.github.com/dsideweb
+
+
+#  excerpt:
+#  image:# Site navigation links
+
+#- title:
+#  url:
+#  excerpt:
+#  image:
