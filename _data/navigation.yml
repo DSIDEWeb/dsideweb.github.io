@@ -2,17 +2,20 @@
 
 # Site navigation links
 
-- title: Immersive
-  url: http://www.github.com/dsideweb
+- title: About
+  url: /about/
 
-- title: Participants
-  url: http://www.github.com/dsideweb
-
+- title: Get Involved
+  url: /get-involved/
+  
 - title: Team
   url: /team/
-
-- title: Partners
-  url: http://www.github.com/dsideweb
+  
+- title: Participants
+  url: /participants/
+  
+- title: Resources
+  url: /resource/
 
 
 #  excerpt:
