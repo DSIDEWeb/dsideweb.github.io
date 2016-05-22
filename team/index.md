@@ -14,7 +14,7 @@ ads: false
 
 # People
 
-##2016/2017 
+## 2016/2017 
 
 ### Program Leads and Staff
 
