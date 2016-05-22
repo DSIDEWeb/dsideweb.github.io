@@ -8,23 +8,23 @@ image:
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title">Built for Jekyll 2</h2>
-  <p class="post-excerpt">Takes advantage of native Sass support and data files to make customizing your site easier.</p>
+  <h2 class="post-title">Learn about DSIDE</h2>
+  <p class="post-excerpt"> DSIDE recruits vacation students over the period of June/July(Phase 1 - 4 weeks) and continuing December/January (Phase 2 - 8 weeks). Read more</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Content First</h2>
-  <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
+  <h2 class="post-title">Get Involved</h2>
+  <p class="post-excerpt">Apply, Submit a project, Attend Open Days</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Customizable</h2>
-  <p class="post-excerpt">Packed with layouts and modules. Include Disqus comments, social sharing buttons, and table of contents on one or all pages.</p>
+  <h2 class="post-title">Meet the Team</h2>
+  <p class="post-excerpt">Researchers, Projects Managers, Human Resources makes this program a reality. Read more </p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Extensible</h2>
-  <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
+  <h2 class="post-title">Participants</h2>
+  <p class="post-excerpt">Learn about the students who participate from throughout South Africa</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
