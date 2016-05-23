@@ -9,9 +9,8 @@ image:
 share: false
 ads: false
 ---
-# What is DSIDE?
 
-## Data Science for Impact and Decision Enablement (DSIDE)
+### Data Science for Impact and Decision Enablement (DSIDE)
 
 DSIDE recruits vacation students over the period of June/July(Phase 1 - 4 weeks) and continuing December/January (Phase 2 - 8 weeks).
 The programme is hosted at the [CSIR](http://www.csir.co.za). The aim of the programme is to support capacity building in the ever growing field of data science by scheduling recruits to participate in mentor-guided and learn-by- doing problem solving of real world needs as presented by different stakeholders.

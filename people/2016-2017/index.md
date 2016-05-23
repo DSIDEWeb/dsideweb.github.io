@@ -10,8 +10,6 @@ share: false
 ads: false
 ---
 
-## 2016/2017
-
 ### Participating Students
 
 ### Program Leads and Staff

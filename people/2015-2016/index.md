@@ -10,8 +10,6 @@ share: false
 ads: false
 ---
 
-## 2015/2016
-
 ### Program Leads and Staff
 * Paul Geldenhuys
 * Dalton Lunga
