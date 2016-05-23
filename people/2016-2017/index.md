@@ -1,7 +1,7 @@
 ---
 layout: article
-title: "Team"
-excerpt: "DSIDE Team Page"
+title: "People@DSIDE 2016/2017"
+excerpt: "People@DSIDE 2016/2017"
 image:
   feature:
   teaser:
@@ -10,9 +10,9 @@ share: false
 ads: false
 ---
 
-# People
-
 ## 2016/2017
+
+### Participating Students
 
 ### Program Leads and Staff
 
@@ -29,20 +29,4 @@ ads: false
 ### Mentors
 
 * Michael Burke
-* Bolelang Sebola
-
-## 2015/2016
-
-### Program Leads and Staff
-* Paul Geldenhuys
-* Dalton Lunga
-* Ishmael Makitla
-* Vukosi Marivate
-* Amandla Mhlongo
-* Dhiren Seetharam
-* Quentin Williams
-
-### Mentors
-
-* Nyalleng Moorosi
 * Bolelang Sebola

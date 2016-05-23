@@ -1,7 +1,7 @@
 ---
 layout: article
-title: "Team"
-excerpt: "DSIDE Team Page"
+title: "People@DSIDE 2015/2016"
+excerpt: "People@DSIDE 2015/2016"
 image:
   feature:
   teaser:
@@ -9,27 +9,6 @@ image:
 share: false
 ads: false
 ---
-
-# People
-
-## 2016/2017
-
-### Program Leads and Staff
-
-* Paul Geldenhuys
-* Ishmael Makitla
-* Vukosi Marivate
-* Amandla Mhlongo
-* Maphuti Mogano
-* Nyalleng Moorosi
-* Nkosinathi Mtambo
-* Dhiren Seetharam
-* Quentin Williams
-
-### Mentors
-
-* Michael Burke
-* Bolelang Sebola
 
 ## 2015/2016
 
