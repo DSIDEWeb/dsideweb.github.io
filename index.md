@@ -9,22 +9,22 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Learn about DSIDE</h2>
-  <p class="post-excerpt"> DSIDE recruits vacation students over the period of June/July(Phase 1 - 4 weeks) and continuing December/January (Phase 2 - 8 weeks). Read more</p>
+  <p class="post-excerpt"> DSIDE recruits vacation students over the period of June/July(Phase 1 - 4 weeks) and continuing December/January (Phase 2 - 8 weeks) [Read More](/about/)</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Get Involved</h2>
-  <p class="post-excerpt">Apply, Submit a project, Attend Open Days</p>
+  <p class="post-excerpt">Apply, Submit a project, Attend Open Days [Read More](/get-involved/)</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Meet the Team</h2>
-  <p class="post-excerpt">Researchers, Projects Managers, Human Resources makes this program a reality. Read more </p>
+  <p class="post-excerpt">Researchers, Projects Managers, Human Resources makes this program a reality. [Read More](/people/)e </p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Participants</h2>
-  <p class="post-excerpt">Learn about the students who participate from throughout South Africa</p>
+  <p class="post-excerpt">Learn about the students who participate from throughout South Africa [Read More](/people/)</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
