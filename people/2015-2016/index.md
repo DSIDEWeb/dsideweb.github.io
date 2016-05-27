@@ -10,39 +10,40 @@ share: false
 ads: false
 ---
 ### Participating Students
-* Gary Bezuidenhout
-* Ari	Croock
-* Albert Dove
-* Jonathan Gerrand
-* Jonah	Hooper
-* Faiyaaz	Khan
-* Thabo	Khauleza
-* Linda	Khumalo
-* Edward Lambani
-* Ofentswe Lebogo
-* Roger Lourens
-* Ndzalama Mabunda
-* Anathi Mafuna
-* Vongani	Maluleke
-* Antonius Mamphiswana
-* Zwivhuya Mashau
-* Leeanne	Masilela
-* Perseverance Mbewe
-* Lebogang Mere
-* Pelonomi Moiloa
-* Sabelo Mokoena
-* Nkosinathi Ndlovu
-* Jessica Nemasisi
-* Ndamulelo Netshiavha
-* Noluthando Ngadi
-* Aashiq Parker
-* Thompho Rambuda
-* Yanga Sisilana
-* Zakhele Skosana
-* Zhuxin Teng
-* Thandile Xiphu
-* Simthembile Yuku
-* Julian Zeegers
+* Gary Bezuidenhout (University of the Witwatersrand)
+* Ari	Croock (University of the Witwatersrand)
+* Albert Dove (University of the Witwatersrand)
+* Jonathan Gerrand (University of the Witwatersrand)
+* Katekani Hlungwani (University of Cape Town)
+* Jonah	Hooper (University of the Witwatersrand)
+* Faiyaaz	Khan (University of the Witwatersrand)
+* Thabo	Khauleza (Central University of Technology)
+* Linda	Khumalo  (University of the Witwatersrand)
+* Edward Lambani (University of Cape Town)
+* Ofentswe Lebogo (University of Limpopo)
+* Roger Lourens (University of Stellenbosch)
+* Ndzalama Mabunda (University of the Witwatersrand)
+* Anathi Mafuna (University of Kwa-Zulu Natal)
+* Vongani	Maluleke (University of Cape Town)
+* Antonius Mamphiswana (University of Limpopo)
+* Zwivhuya Mashau (University of Cape Town)
+* Leeanne	Masilela (University of the Witwatersrand)
+* Perseverance Mbewe (University of Johannesburg)
+* Lebogang Mere (University of Pretoria)
+* Pelonomi Moiloa (University of the Witwatersrand)
+* Sabelo Mokoena (University of Kwa-Zulu Natal)
+* Nkosinathi Ndlovu (University of the Witwatersrand)
+* Jessica Nemasisi (University of Venda)
+* Ndamulelo Netshiavha (University of the Witwatersrand)
+* Noluthando Ngadi (University of Kwa-Zulu Natal)
+* Aashiq Parker (University of Cape Town)
+* Thompho Rambuda (University of the Witwatersrand)
+* Yanga Sisilana (Nelson Mandela Metropolitan University)
+* Zakhele Skosana (University of the Witwatersrand)
+* Zhuxin Teng (University of Cape Town)
+* Thandile Xiphu (University of Cape Town)
+* Simthembile Yuku (Walter Sisulu University)
+* Julian Zeegers (University of the Witwatersrand)
 
 ### Program Leads and Staff
 * Paul Geldenhuys
