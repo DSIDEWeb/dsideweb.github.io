@@ -9,6 +9,7 @@ image:
 share: false
 ads: false
 ---
+![DSIDE Workshop](/images/dside4wide.jpg)
 
 ## Seasons
 

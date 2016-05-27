@@ -10,6 +10,8 @@ share: false
 ads: false
 ---
 
+![DSIDE Open Day](/images/dside1wide.jpg)
+
 ## Students
 
 Applications are for 3rd and 4th year students who are interested in getting experience in Data Science through our DSIDE program.
@@ -26,8 +28,6 @@ You can submit projects for DSIDE. We encourage you to submit multiple project i
 **[Submit Project](http://bitly.com/DSIDE2016ProjectSubmission)**
 
 ## Open Days
-
-![DSIDE Open Day](/images/dside1wide.jpg)
 
 If you would like to attend an open day to see the projects and students at the end of every phase, fill in the form linked below to get an invite.
 

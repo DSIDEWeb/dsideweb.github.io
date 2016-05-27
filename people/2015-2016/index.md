@@ -53,6 +53,10 @@ ads: false
 * Dhiren Seetharam
 * Quentin Williams
 
+### Workshop Fascilitators
+* Brewnen Ntlangu
+* Edwin Rampine
+
 ### Mentors
 
 * Nyalleng Moorosi
