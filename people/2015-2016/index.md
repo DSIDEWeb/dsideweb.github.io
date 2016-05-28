@@ -35,6 +35,7 @@ ads: false
 * **Jessica Nemasisi** (University of Venda)
 * **Ndamulelo Netshiavha** (University of the Witwatersrand)
 * **Noluthando Ngadi** (University of Kwa-Zulu Natal)
+* **Rob Passmore** (University of Cape Town)
 * **Aashiq Parker** (University of Cape Town)
 * **Thompho Rambuda** (University of the Witwatersrand)
 * **Yanga Sisilana** (Nelson Mandela Metropolitan University)
