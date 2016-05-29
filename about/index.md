@@ -3,7 +3,7 @@ layout: article
 title: "About"
 excerpt: "What is DSIDE?"
 image:
-  feature: dside2wide.jpg
+  feature:
   teaser:
   thumb:
 share: true

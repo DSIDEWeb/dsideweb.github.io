@@ -6,11 +6,9 @@ image:
   feature:
   teaser:
   thumb:
-share: false
+share: true
 ads: false
 ---
-
-## Coming Soon
 
 <div class="tiles">
 {% for post in site.categories.project %}
