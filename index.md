@@ -29,3 +29,5 @@ image:
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
+
+[![CSIR](/images/csir_logo.png)](http://www.csir.co.za) [![DST](/images/logo-dst.png)](http://www.dst.gov.za)
