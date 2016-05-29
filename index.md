@@ -30,4 +30,4 @@ image:
 
 </div><!-- /.tiles -->
 
-[![CSIR](/images/csir_logo.png)](http://www.csir.co.za) [![DST](/images/logo-dst.png)](http://www.dst.gov.za)
+[![CSIR](/images/csir-logo.png)](http://www.csir.co.za) [![DST](/images/logo-dst.png)](http://www.dst.gov.za)
