@@ -3,13 +3,13 @@ layout: article
 title: "About"
 excerpt: "What is DSIDE?"
 image:
-  feature:
+  feature: dside2wide.jpg
   teaser:
   thumb:
 share: true
 ads: false
 ---
-![DSIDE Workshop](/images/dside2wide.jpg)
+<!-- ![DSIDE Workshop](/images/dside2wide.jpg) -->
 
 ### Data Science for Impact and Decision Enablement (DSIDE)
 

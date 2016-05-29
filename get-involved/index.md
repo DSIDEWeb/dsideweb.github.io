@@ -3,14 +3,14 @@ layout: article
 title: "Get Involved"
 excerpt: "Get Involved"
 image:
-  feature:
+  feature: dside1wide.jpg
   teaser:
   thumb:
 share: true
 ads: false
 ---
 
-![DSIDE Open Day](/images/dside1wide.jpg)
+<!-- ![DSIDE Open Day](/images/dside1wide.jpg) -->
 
 ## Students
 

@@ -1,6 +1,7 @@
 ---
 layout: home
 permalink: /
+share: true
 image:
   feature: workshop.jpg
 ---

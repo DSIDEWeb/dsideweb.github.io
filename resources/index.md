@@ -3,14 +3,14 @@ layout: article
 title: "Resources"
 excerpt: "DSIDE Resources"
 image:
-  feature:
+  feature: dside3wide.jpg
   teaser:
   thumb:
 share: true
 ads: false
 ---
 
-![DSIDE Workshop](/images/dside3wide.jpg)
+<!-- ![DSIDE Workshop](/images/dside3wide.jpg) -->
 
 ## Introduction
 

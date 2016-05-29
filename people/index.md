@@ -3,13 +3,13 @@ layout: article
 title: "People@DSIDE"
 excerpt: "DSIDE People Page"
 image:
-  feature:
+  feature: dside4wide.jpg
   teaser:
   thumb:
 share: true
 ads: false
 ---
-![DSIDE Workshop](/images/dside4wide.jpg)
+<!-- ![DSIDE Workshop](/images/dside4wide.jpg) -->
 
 ## Seasons
 
