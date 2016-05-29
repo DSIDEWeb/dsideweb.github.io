@@ -1,7 +1,7 @@
 ---
 layout: media
 title: "Test Project"
-categories: projects
+categories: project
 excerpt:
 ads: false
 share: true
