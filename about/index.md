@@ -3,10 +3,10 @@ layout: article
 title: "About"
 excerpt: "What is DSIDE?"
 image:
-  feature:
+  feature: dside2wide.jpg
   teaser:
   thumb:
-share: false
+share: true
 ads: false
 ---
 ![DSIDE Workshop](/images/dside2wide.jpg)
