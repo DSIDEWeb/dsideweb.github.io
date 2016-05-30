@@ -54,7 +54,7 @@ ads: false
 * Dhiren Seetharam
 * Quentin Williams
 
-### Workshop Fascilitators
+### Workshop Facilitators
 * Brewnen Ntlangu
 * Edwin Rampine
 
