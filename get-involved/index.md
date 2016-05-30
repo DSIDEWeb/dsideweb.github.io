@@ -25,7 +25,7 @@ We also have a couple of spots for graphic design and journalism students
 
 You can submit projects for DSIDE. We encourage you to submit multiple project ideas so that we have a good pool of ideas to choose from.
 
-**[Submit Project](http://bitly.com/DSIDE2016ProjectSubmission)**
+**Project submissions are Closed**
 
 ## Open Days
 
