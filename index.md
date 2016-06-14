@@ -18,10 +18,4 @@ image:
   <p class="post-excerpt">Apply, Submit a project, Attend Open Days</p>
 </div><!-- /.tile -->
 
-<div class="tile">
-  <h2 class="post-title"><a href='/people/'>Meet the Team</a></h2>
-  <p class="post-excerpt">Students, Researchers, Projects Managers, Human Resources makes this program a reality. </p>
-</div><!-- /.tile -->
-
-
 </div><!-- /.tiles -->
