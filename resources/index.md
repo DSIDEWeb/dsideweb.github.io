@@ -14,7 +14,9 @@ ads: false
 
 ## Introduction
 
-We primarily use Python as the language of choice for Data Science within the program. As such we would first suggest a look through a resource such as [Journey from a Python noob to a Kaggler on Python](http://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/). There is a lot of material out there to learn. This page just presents a couple of the resources recommended by our Staff, Mentors and Students.
+We primarily use Python as the language of choice for Data Science within the programme. As such, we would suggest you first take a look through a resource such as [Journey from a Python noob to a Kaggler on Python](http://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/).
+
+The page below gives various resources recommended by our Staff, Mentors and Students.
 
 ## Online Courses
 
@@ -25,18 +27,18 @@ We primarily use Python as the language of choice for Data Science within the pr
 * Introduction to Algorithms [Udacity](https://www.udacity.com/course/viewer#!/c-cs215) **#Intermediate**
 * Full stack Foundations [Udacity](https://www.udacity.com/course/full-stack-foundations--ud088 ) **#Intermediate**
 
-This should be a good base for you to start our program . If your programming is shaky or you don't have experience in Python, it would be best that you start with these classes.
+This should be a good base for you to start our programme. If your programming is shaky or you don’t have experience in Python, it would be best that you start with these classes.
 
 #### Web  
 
 * Introduction to JavaScript [Udacity](https://www.udacity.com/course/viewer#!/c-ud804/) **#Beginner**
-* The Django Book [DjangoBook](http://www.djangobook.com/) (not a class but great to learn Django) **#Intermediate**
+* The Django Book [DjangoBook](http://www.djangobook.com/) (not a class but, great to learn Django) **#Intermediate**
 
 ### Data Science
 
 * Intro to Data Analysis [Udacity](https://www.udacity.com/course/intro-to-data-analysis--ud170) **#Beginner**
 
-The courses below are primarily aimed at Phase 2 of the program (Dec/Jan). It depends mainly on what project a student is working on.
+The courses below are primarily aimed at Phase 2 of the programme (December/January). It depends mainly on what project a student is working on.
 
 * Practical Machine Learning (from Johns Hopkins University) **#Intermediate**
 * Cluster Analysis in Data Mining (from Jiawei Han) **#Intermediate**
@@ -48,7 +50,7 @@ The courses below are primarily aimed at Phase 2 of the program (Dec/Jan). It de
 
 ## Books
 
-These are completely optional but can be great references for participants to keep for the future.
+These are completely optional, but can be great references for participants to keep for the future.
 
 * Art of Data Science [Leanpub](https://leanpub.com/artofdatascience), [iPython Notebook Companion](https://github.com/bionicv/art-of-data-science-python)
 * Python for Data Analysis
