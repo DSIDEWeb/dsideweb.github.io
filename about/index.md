@@ -22,3 +22,8 @@ The programme is hosted at the [CSIR](http://www.csir.co.za). The aim of the pro
 The projects have a common theme that adapts a visual analytics framework with goals that include understanding the dataset through interactive visual exploration and model development. Extracted insights are intended to trigger actions towards better decision-making for various users.
 
 The CSIR DSIDE programme puts emphasis on problem solving, creativity and encourages students to be curious. Experienced mentors from the CSIR data science community will introduce machine learning topics, tools, theories and guide students in this project-driven environment. Given that this is a learn-by-doing initiative, our stakeholders do not expect the delivery of market-ready output at the end of the programme.
+
+### Contact
+
+Vukosi Marivate (vmarivate@csir.co.za)
+Dhiren Seetharam (dseetharam@csir.co.za)
