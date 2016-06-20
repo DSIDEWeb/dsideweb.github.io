@@ -24,7 +24,7 @@ ads: false
 * Phala Ramonyai
 
 ### Program Leads and Staff
-* Dalton Lunga
+* Dr. Dalton Lunga
 * Amandla Mhlongo
 * Dhiren Seetharam
-* Quentin Williams
+* Dr. Quentin Williams

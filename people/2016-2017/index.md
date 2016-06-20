@@ -16,15 +16,15 @@ ads: false
 
 * Paul Geldenhuys
 * Ishmael Makitla
-* Vukosi Marivate
+* Dr. Vukosi Marivate
 * Amandla Mhlongo
 * Maphuti Mogano
 * Nyalleng Moorosi
 * Nkosinathi Mtambo
 * Dhiren Seetharam
-* Quentin Williams
+* Dr. Quentin Williams
 
 ### Mentors
 
-* Michael Burke
+* Dr. Michael Burke
 * Bolelang Sebola

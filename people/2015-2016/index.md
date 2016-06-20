@@ -49,12 +49,12 @@ ads: false
 
 ### Program Leads and Staff
 * Paul Geldenhuys
-* Dalton Lunga
+* Dr. Dalton Lunga
 * Ishmael Makitla
-* Vukosi Marivate
+* Dr. Vukosi Marivate
 * Amandla Mhlongo
 * Dhiren Seetharam
-* Quentin Williams
+* Dr. Quentin Williams
 
 ### Workshop Facilitators
 * Brewnen Ntlangu
