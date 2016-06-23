@@ -45,6 +45,8 @@ ads: false
 * **Simthembile Yuku** (Walter Sisulu University)
 * **Julian Zeegers** (University of the Witwatersrand)
 
+#### University Representation
+
 ![University Bar](/images/dside2015students.png)
 
 ### Program Leads and Staff
