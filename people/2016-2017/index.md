@@ -35,7 +35,7 @@ ads: false
 * **Takalani	Mamafha** (UJ
 * **Sivenkosi	Maqhula** ()
 * **Kahla	Martin** (UP)
-* **Xichavo	Maringa**
+* **Xichavo	Maringa** (UP)
 * **Sakhile Glen Mashele** (UJ)
 * **Desire	Matabane** (UCT)
 * **Themba Abraham Mathebula** (SMU)
