@@ -47,7 +47,7 @@ ads: false
 
 #### University Representation
 
-![University Bar](/images/dside2015students.png)
+![University Bar](/images/2015-universities.png)
 
 ### Program Leads and Staff
 * Paul Geldenhuys

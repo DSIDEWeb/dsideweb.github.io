@@ -65,7 +65,7 @@ ads: false
 
 #### University Representation
 
-![University Bar](/images/dside2016students.png)
+![University Bar](/images/2016-universities.png)
 
 ### Program Leads and Staff
 
@@ -83,5 +83,6 @@ ads: false
 
 * Dr. Michael Burke
 * Bolelang Sebola
+* Mbulelo Ntlangu
 
 ### Project Mentors/Support
