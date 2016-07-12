@@ -28,3 +28,5 @@ With the drought related data coming in different formats, Project Mati was task
 Country-wide four of the nine provinces have more than 50% of their total settlements affected by drought this includes Kwazulu- Natal and Free State reporting of about 91% of its settlements respectively, followed by Mpumalanga reporting of about 61% followed by the Western Cape of about 54% of its settlements affected by drought, while Gauteng and Northern Cape have a low of 11% and 1.1% respectively.
 
 The diagram below shows the total number of settlements and the number of settlements affected by drought in South Africa per Province.
+
+**Author:** Nolihle Gulwa, B Tech Journalism, Walter Sisulu University. 
