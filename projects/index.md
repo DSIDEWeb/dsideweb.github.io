@@ -10,6 +10,8 @@ share: true
 ads: false
 ---
 
+This is just a selection of projects from the DSIDE Program.
+
 <div class="tiles">
 {% for post in site.categories.articles %}
   {% include post-list-dside.html %}
