@@ -10,11 +10,18 @@ ads: false
 
 <!-- {% include toc.html %} -->
 
+### Project Information
+
+* **Organisation**: Department of Water and Sanitation
+* **Students**: Nolihle Gulwa, Wandisa Mfenguza, Ndamulelo Nemakhavhani, Nombuso Zondo
+* **Project Lead**: Dr. Vukosi Marivate
+* **Project Mentors**: Ofentswe Lebogo, Nhlamulo Chauke
+
 ### Introduction
 
 With the drought related data coming in different formats, Project Mati was tasked to come up with a strategy to help the Department of Water and Sanitation (DWS) improve the management of data used to disseminate water-related information and additional data needed by DWS in order for DWS develop an information system status in South Africa.  The Project Mati team will analyse the data about the drought status in South Africa, it will further create a web browser that will help DWS best display the data in the form of mapping the affected areas by drought Province, settlements and municipalities and affected also by population.
 
-### Some Analysis
+### Analysis
 
 #### Affected settlements
 
