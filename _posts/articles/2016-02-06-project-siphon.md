@@ -12,7 +12,7 @@ ads: false
 
 * **Organisation**: CSIR Modelling and Digital Science
 * **Students**: LeeAnne Masilela, Yanga Sisilana, Gary Bezuidenhout and Nkosinathi Ndlovu
-* **Project Leads**: Dr. Vukosi Marivate, Ms. Nyalleng Moorosi
+* **Project Leads**: Dr. Vukosi Marivate, Ms. Nyalleng Moorosi 
 
 ### Project Description
 
