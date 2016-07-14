@@ -31,4 +31,4 @@ The DSIDE internship programme has been the most rewarding academic experience f
 * Extracting South African safety and security incident patterns from social media, 2015, *Vukosi Marivate*
 * Privacy In Mining Crime Data From Social Media: A South African Perspective, 2015, *Nyalleng Moorosi and Vukosi Marivate*
 
-**Author:** LeeAnne Masilela, MSc Epidemiology, Wits University. 
+**Author:** LeeAnne Masilela, MSc Epidemiology, Wits University.
