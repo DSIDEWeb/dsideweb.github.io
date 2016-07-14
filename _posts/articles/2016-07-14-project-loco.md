@@ -1,8 +1,8 @@
 ---
 layout: article
-title: "Project Loco"
+title: "Project Loco: Incident Behavioural Modelling for Resource Allocation."
 categories: articles
-modified: 2016-07-15T16:28:11-04:00
+modified: 2016-07-14T16:28:11-04:00
 tags: [2016]
 comments: false
 ads: false

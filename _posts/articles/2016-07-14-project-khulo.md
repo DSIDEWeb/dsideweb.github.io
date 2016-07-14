@@ -1,8 +1,8 @@
 ---
 layout: article
-title: “Project Khulo”
+title: “Project Khulo: Career Path Tracking for Better Intervents”
 categories: articles
-modified: 2016-07-15T16:28:11-04:00
+modified: 2016-07-14T16:28:11-04:00
 tags: [2016]
 comments: false
 ads: false
