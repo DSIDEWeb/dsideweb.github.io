@@ -1,3 +1,4 @@
+---
 layout: article
 title: "Project Loco"
 categories: articles
