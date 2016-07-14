@@ -7,13 +7,11 @@ tags: [2016]
 comments: false
 ads: false
 ---
-​
-<!-- {% include toc.html %} -->
-​
+​​
 ### Project Information
 ​
 * **Organisation**: Department of Science and Technology, Council for Scientific and Industrial Research, National Research foundation
-* **Students**:Louisa Sommerville, Carel, Nchachi, Olwethu Madikwa
+* **Students**: Louisa Sommerville, Carel, Nchachi, Olwethu Madikwa
 * **Project Leads**: Ms. Nyalleng Moorosi, Dr. Vukosi Marivate
 * **Project Mentors**: Ofentswe Lebogo
 ​
@@ -26,6 +24,5 @@ Project Khulo is tasked to develop an application that will help the Institution
 #### The job market
 ​
 Project Khulo's observations, on the data they retrieved from Careers24, is that ICT jobs are more in Johannesburg and Cape Town compared to Finance jobs that are widely available all over the country. They found that the job market for ICT jobs prefer people who are familiar with programming language Java, Python, C and PHP.
-​
 ​
 **Author:** Nolihle Gulwa, B Tech Journalism, Walter Sisulu University.

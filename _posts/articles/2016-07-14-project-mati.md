@@ -8,8 +8,6 @@ comments: false
 ads: false
 ---
 
-<!-- {% include toc.html %} -->
-
 ### Project Information
 
 * **Organisation**: Department of Water and Sanitation
