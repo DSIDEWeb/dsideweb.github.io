@@ -11,7 +11,7 @@ ads: false
 ### Project Information
 
 * **Organisation**:South African Police Service
-* **Students**: Zimkhitha Sijovu, Thulani Ngonyama, Memory Thulani Khumalo
+* **Students**: Zimkhitha Sijovu, Thulani Ngonyama, Memory Thulani Khumalo 
 * **Project Lead**: Dr. Vukosi Marivate
 * **Project Mentors**: Katlego Mogokonyane
 
