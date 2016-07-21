@@ -33,7 +33,7 @@ ads: false
 * **Henneth	Malatji** (UL)
 * **Vongani	Maluleke** (UCT)
 * **Takalani	Mamafha** (UJ
-* **Sivenkosi	Maqhula** ()
+* **Sivenkosi	Maqhula** (UCT)
 * **Kahla	Martin** (UP)
 * **Xichavo	Maringa** (UP)
 * **Sakhile Glen Mashele** (UJ)
