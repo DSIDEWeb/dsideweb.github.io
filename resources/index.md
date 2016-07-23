@@ -32,7 +32,7 @@ This should be a good base for you to start our programme. If your programming i
 #### Web  
 
 * Introduction to JavaScript [Udacity](https://www.udacity.com/course/viewer#!/c-ud804/) **#Beginner**
-* The Django Book [DjangoBook](http://www.djangobook.com/) (not a class but, great to learn Django) **#Intermediate**
+* The Django Book (Updated for Django 1.8) [DjangoBook](http://masteringdjango.com/django-book/) (not a class but, great to learn Django) **#Intermediate**
 
 ### Data Science
 
