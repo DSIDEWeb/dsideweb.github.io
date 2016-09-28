@@ -24,10 +24,10 @@ We also have a couple of spots for graphic design and journalism students.
 
 You can submit projects for DSIDE. We encourage you to submit multiple project ideas so that we have a good pool to choose from.
 
-**Project submissions are Closed**
+**Project submissions are Closed (Join the mailing list below for updates)**
 
-## Open Days
+## Keep Me Updated
 
-If you would like to attend an open day to see the projects and students at the end of every phase, follow the link below and fill in the form.
+If you would like to be updated on news about DSIDE, get invites to open Days etc., join our mailing linst.
 
-**[Invite me to Open Days](https://docs.google.com/forms/d/1Xa_fjzTP4YMypp7ekkIMsjDd3DYbQA3VU7QE7iJ2EGQ/viewform)**
+**[Join the DSIDE Mailing List](http://eepurl.com/chhd4z)**
