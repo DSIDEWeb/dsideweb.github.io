@@ -13,7 +13,7 @@ ads: false
 
 ## Program Leads
 * [Mr. Ishmael Makitla](/people/program-leads/ishmael-makitla/)
-* [Dr. Vukosi Marivate](/program-leads/vukosi-marivate/)
+* [Dr. Vukosi Marivate](/people/program-leads/vukosi-marivate/)
 * [Ms. Nyalleng Moorosi](/people/program-leads/nyalleng-moorosi/)
 
 ## Seasons
