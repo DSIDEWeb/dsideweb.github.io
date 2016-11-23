@@ -10,8 +10,6 @@ share: false
 ads: false
 ---
 
-## Dr. Vukosi Marivate
-
 ![Vukosi Marivate](/images/vukosi-marivate.jpg)
 
 **Role at the CSIR:**  Data Scientist, Senior Researcher

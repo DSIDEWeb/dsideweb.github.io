@@ -10,8 +10,6 @@ share: false
 ads: false
 ---
 
-## Ms. Nyalleng Moorosi
-
 ![Nyalleng Moorosi](/images/nyalleng-moorosi.jpg)
 
 **Role at the CSIR:**  Data Scientist, Senior Researcher

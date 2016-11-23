@@ -10,8 +10,6 @@ share: false
 ads: false
 ---
 
-## Mr. Ishmael Makitla
-
 ![Ishmael Makitla](/images/ishmael-makitla.gif)
 
 **Role at the CSIR:**  Senior Technologist/ Engineer
