@@ -12,9 +12,9 @@ ads: false
 <!-- ![DSIDE Workshop](/images/dside4wide.jpg) -->
 
 ## Program Leads
-* Mr. Ishmael Makitla](/programme-leads/ishmael-makitla/)
-* [Dr. Vukosi Marivate](/programme-leads/vukosi-marivate/)
-* Ms. Nyalleng Moorosi(/programme-leads/nyalleng-moorosi/)
+* [Mr. Ishmael Makitla](/people/program-leads/ishmael-makitla/)
+* [Dr. Vukosi Marivate](/program-leads/vukosi-marivate/)
+* [Ms. Nyalleng Moorosi](/people/program-leads/nyalleng-moorosi/)
 
 ## Seasons
 
