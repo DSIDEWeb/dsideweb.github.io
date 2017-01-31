@@ -8,12 +8,13 @@ comments: false
 ads: false
 ---
 
+
 ### Project Information
 
 * **Organisation**: Department of Water and Sanitation
 * **Students**: Nolihle Gulwa, Wandisa Mfenguza, Ndamulelo Nemakhavhani, Nombuso Zondo
 * **Project Lead**: Dr. Vukosi Marivate
-* **Project Mentors**: Ofentswe Lebogo, Nhlamulo Chauke 
+* **Project Mentors**: Ofentswe Lebogo, Nhlamulo Chauke
 
 ### Project Description
 

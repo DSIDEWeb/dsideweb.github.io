@@ -7,9 +7,7 @@ tags: [2016]
 comments: false
 ads: false
 ---
-
 ### Project Information
-
 * **Organisation**: NGO, Law Enforcement
 * **Students**: Thulani Memory Khumalo (UCT), Zimkhitha Sijovu (UFH), Thulani Pride Ngonyama (UP)
 * **Project Lead**: Dr. Vukosi Marivate
