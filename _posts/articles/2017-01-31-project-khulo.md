@@ -15,6 +15,7 @@ ads: false
 * **Students**: Olwethu Madikwa (WSU), Louisa Sommerville (UP), Carel Chach (SMU)
 * **Project Lead**: Ms. Nyalleng Moorosi, Dr. Vukosi Marivate
 * **Project Mentors**: Ofentswe Lebogo
+* **Year**: 2016/2017
 
 ### Project Description
 

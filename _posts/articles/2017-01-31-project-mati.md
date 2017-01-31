@@ -15,6 +15,7 @@ ads: false
 * **Students**: Nolihle Gulwa (WSU), Wandisa Mfenguza (UFH), Ndamulelo Nemakhavhani (UCT), Nombuso Zondo (UKZN)
 * **Project Lead**: Dr. Vukosi Marivate
 * **Project Mentors**: Ofentswe Lebogo, Nhlamulo Chauke
+* **Year**: 2016/2017
 
 ### Project Description
 

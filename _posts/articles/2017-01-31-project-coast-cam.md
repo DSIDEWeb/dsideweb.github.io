@@ -15,6 +15,7 @@ ads: false
 * **Students**: Thembelani  Bheza (Wits), Mokuwe Windy (SMU) and Henneth Malatji (UL)
 * **Project Lead**: Dr. Michael Burke
 * **Project Mentors**: Ofentswe Lebogo
+* **Year**: 2016/2017
 
 ### Project Description
 

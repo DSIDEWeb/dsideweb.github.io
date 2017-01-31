@@ -15,6 +15,7 @@ ads: false
 * **Students**: Purity Molala (UL), Tlou Boloka (NWU), Theron Khosa (UJ)
 * **Project Lead**: Dr. Vukosi Marivate, Ms. Nyalleng Moorosi
 * **Project Mentors**: Ofentswe Lebogo, Jessica Nemasisi
+* **Year**: 2016/2017
 
 ### Project Description
 

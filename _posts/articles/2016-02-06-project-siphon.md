@@ -3,7 +3,7 @@ layout: article
 title: "Project Siphon: Public Safety and Crime Incident Detection from Social Media"
 categories: articles
 modified: 2016-07-11T16:28:11-04:00
-tags: [2016]
+tags: [2015]
 comments: false
 ads: false
 ---
@@ -11,9 +11,10 @@ ads: false
 
 ### Project Information
 
-* **Organisation**: CSIR Modelling and Digital Science
-* **Students**: LeeAnne Masilela, Yanga Sisilana, Gary Bezuidenhout and Nkosinathi Ndlovu
+* **Stakeholder**: CSIR Modelling and Digital Science
+* **Students**: LeeAnne Masilela (Wits), Yanga Sisilana (NMMU), Gary Bezuidenhout (Wits) and Nkosinathi Ndlovu (Wits)
 * **Project Leads**: Dr. Vukosi Marivate, Ms. Nyalleng Moorosi
+* **Year**: 2015/2016
 
 ### Project Description
 
@@ -27,6 +28,7 @@ The DSIDE internship programme has been the most rewarding academic experience f
 
 ### Papers
 
+* Catching Crime: Detection of Public Safety Incidents using Social Media, 2016, *Vukosi Marivate and Pelonomi Moiloa*
 * Extracting South African safety and security incident patterns from social media, 2015, *Vukosi Marivate*
 * Privacy In Mining Crime Data From Social Media: A South African Perspective, 2015, *Nyalleng Moorosi and Vukosi Marivate*
 

@@ -15,6 +15,7 @@ ads: false
 * **Students**: Abel Letoaba (SMU), Komana Morris (UL), Kaveshan Naidoo (UNISA)
 * **Project Lead**: Dr. Vukosi Marivate
 * **Project Mentors**: Ofentswe Lebogo
+* **Year**: 2016/2017
 
 ### Project Description
 

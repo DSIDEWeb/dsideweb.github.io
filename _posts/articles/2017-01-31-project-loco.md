@@ -11,10 +11,11 @@ ads: false
 
 ### Project Information
 
-* **Organisation**: NGO, Law Enforcement
+* **Stakeholder**: NGO, Law Enforcement
 * **Students**: Thulani Memory Khumalo (UCT), Zimkhitha Sijovu (UFH), Thulani Pride Ngonyama (UP)
 * **Project Lead**: Dr. Vukosi Marivate
 * **Project Mentors**: Ofentswe Lebogo
+* **Year**: 2016/2017
 
 ### Project Description
 
@@ -25,5 +26,9 @@ During the first phase of the program, Project- Loco was mainly focused on data 
 ### Student Remarks
 
 The students felt like mapping was a bit challenging and also had problems with loading the data on the database which made it hard for them to display more findings on their app. They Learned new programming languages such as Python, Django and JavaScript and they also learnt to work in different computing environments such as Anaconda and git.
+
+## Papers
+
+* Catching Crime: Detection of Public Safety Incidents using Social Media, 2016, *Vukosi Marivate and Pelonomi Moiloa*
 
 **Author:** Team + Nolihle Gulwa, B Tech Journalism, Walter Sisulu University.
