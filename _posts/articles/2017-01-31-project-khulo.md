@@ -11,7 +11,7 @@ ads: false
 
 ### Project Information
 
-* **Stakeholder**: DST, NRF, CSIR
+* **Stakeholder**: CSIR MDS, DST, NRF, CSIR
 * **Students**: Olwethu Madikwa (WSU), Louisa Sommerville (UP), Carel Chach (SMU)
 * **Project Lead**: Ms. Nyalleng Moorosi, Dr. Vukosi Marivate
 * **Project Mentors**: Ofentswe Lebogo

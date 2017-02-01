@@ -11,7 +11,7 @@ ads: false
 
 ### Project Information
 
-* **Stakeholder**: CSIR Natural Resources and the Environment (NRE}
+* **Stakeholder**: CSIR Natural Resources and the Environment (NRE)
 * **Students**: Thembelani  Bheza (Wits), Mokuwe Windy (SMU) and Henneth Malatji (UL)
 * **Project Lead**: Dr. Michael Burke
 * **Project Mentors**: Ofentswe Lebogo

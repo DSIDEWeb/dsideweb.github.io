@@ -11,7 +11,7 @@ ads: false
 
 ### Project Information
 
-* **Stakeholder**: NGO, Law Enforcement
+* **Stakeholder**: CSIR MDS, NGO, Law Enforcement
 * **Students**: Thulani Memory Khumalo (UCT), Zimkhitha Sijovu (UFH), Thulani Pride Ngonyama (UP)
 * **Project Lead**: Dr. Vukosi Marivate
 * **Project Mentors**: Ofentswe Lebogo
