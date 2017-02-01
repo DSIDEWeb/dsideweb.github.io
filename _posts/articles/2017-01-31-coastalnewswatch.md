@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Project Coastal NewsWatch: Coastal Area Infrigements"
-categories: articles
+categories: projects
 modified: 2017-01-31T16:28:11-04:00
 tags: [2016]
 comments: false
@@ -11,7 +11,7 @@ ads: false
 
 ### Project Information
 
-* **Stakeholder**: 
+* **Stakeholder**:
 * **Students**: Mpheng Magome (UNISA), Retief Lubbe (UNISA), Promise Msomi (UP)
 * **Project Lead**: Bolelang Sibolla
 * **Project Mentors**: Laing Lourens
