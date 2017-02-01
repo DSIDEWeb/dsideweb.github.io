@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Project Coastal NewsWatch: Coastal Area Infrigements"
-categories: projects
+categories: articles
 modified: 2017-01-31T16:28:11-04:00
 tags: [2016]
 comments: false
