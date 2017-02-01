@@ -25,6 +25,8 @@ During the first phase, the Project Mati team developed a web application that v
 
 ## Student Remarks
 
+![Team](/images/project-mati-team.jpg)
+
 The project was engaging and beneficial, but we feel we could have done more if we got more data and clarifications from the client. We were not familiar with the use of Jupyter notebooks, Django web development framework, Javascript and HTML. We have learnt a lot from this project including working as team.
 
 **Author:** Team + Nolihle Gulwa, B Tech Journalism, Walter Sisulu University.

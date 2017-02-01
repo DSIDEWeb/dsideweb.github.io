@@ -25,6 +25,8 @@ During the 2nd  phase Project Khulo created two main branches in their Web app, 
 
 ### Student Remarks
 
+![Team](/images/project-khulo-team.jpg)
+
 The students have learned to extract data, clean text and data, clustering, search, graphical analysis, machine learning and topic modelling.
 
 **Author:** Team + Nolihle Gulwa, B Tech Journalism, Walter Sisulu University.

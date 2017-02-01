@@ -25,6 +25,9 @@ During the first phase of the program, Project- Loco was mainly focused on data 
 
 ### Student Remarks
 
+![Team](/images/project-loco-team.jpg)
+
+
 The students felt like mapping was a bit challenging and also had problems with loading the data on the database which made it hard for them to display more findings on their app. They Learned new programming languages such as Python, Django and JavaScript and they also learnt to work in different computing environments such as Anaconda and git.
 
 ## Papers

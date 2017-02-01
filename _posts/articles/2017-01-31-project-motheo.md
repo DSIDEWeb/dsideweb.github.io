@@ -27,6 +27,8 @@ The Project-Motheo team further worked on developing a dynamic Web application w
 
 ### Student Remarks
 
+![Team](/images/project-mati-team.jpg)
+
 The students have been exposed to the Data Science field and in the process have grasped skills such as learning new programming languages, text analysis, topic modelling using LDA, Django, machine learning. The students appreciate the exposure that the DSIDE program has  provided for them and are intrigued by taking Data Science as a potential career.
 
 

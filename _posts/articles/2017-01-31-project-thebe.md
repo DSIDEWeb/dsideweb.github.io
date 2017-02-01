@@ -24,6 +24,8 @@ Project-Thebe is a project assigned by the Defence Peace Safety and Security (DP
 
 ### Student Remarks
 
+![Team](/images/project-thebe-team.jpg)
+
 The students feel inspired by the DSIDE vacation work experience where they learned to get out of their comfort zones and opened themselves to learning new things such as programming, machine learning and  python. In addition to that they learned teamwork, accountability, and focus on delivery of the project.
 
 **Author:** Team + Nolihle Gulwa, B Tech Journalism, Walter Sisulu University.
