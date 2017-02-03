@@ -82,16 +82,22 @@ ads: false
 ### Project Leads
 
 * Dr. Michael Burke
+* Avashlin Moodley
+* Khopotso Mtwazi
+* Ismail Sallie
 * Bolelang Sebola
 
 ### Project Mentors
 
+* Karen Calteaux
 * Nhlamulo Chauke
+* Febe de Wet
 * Asive Dlaba
 * Albert Dove
 * Jonathan Gerrand
 * Linda Khumalo
 * Ofentswe Lebogo
+* Aby Louw
 * Laing Lourens
 * Anathi Mafuna
 * Antonuis Mamphiswana
@@ -99,6 +105,8 @@ ads: false
 * Nkosinathi Ndlovu
 * Jessica Nemasisi
 * Ndamulelo Netshiavha
+* Georg Schlunz
+* Carmen Moors
 
 ### Workshops
 
