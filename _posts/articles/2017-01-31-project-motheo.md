@@ -14,7 +14,7 @@ ads: false
 * **Stakeholder**: DST
 * **Students**: Abel Letoaba (SMU), Komana Morris (UL), Kaveshan Naidoo (UNISA)
 * **Project Lead**: Dr. Vukosi Marivate
-* **Project Mentors**: Ofentswe Lebogo
+* **Project Mentors**: Ofentswe Lebogo, Asive Dlaba
 * **Year**: 2016/2017
 
 ### Project Description

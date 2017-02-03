@@ -14,7 +14,6 @@ ads: false
 * **Stakeholder**: CSIR Natural Resources and the Environment (NRE)
 * **Students**: Thembelani  Bheza (Wits), Mokuwe Windy (SMU) and Henneth Malatji (UL)
 * **Project Lead**: Dr. Michael Burke
-* **Project Mentors**: Ofentswe Lebogo
 * **Year**: 2016/2017
 
 ### Project Description
@@ -23,7 +22,7 @@ Project CoastCam is project that is focused on investigating the impact of clima
 
 ### Student Remarks
 
-![CoastCamTeam](/images/project-coast-cam-team.jpg)
+![Team](/images/project-coast-cam-team.jpg)
 
 The students learned new languages such as python, javascript, Django to develop a Web App and also learned to work as a team, in addition to machine learning concepts including decision trees, support vector machines, naive bayesian classifiers, supervised and unsupervised learning.
 

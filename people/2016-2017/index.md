@@ -83,6 +83,24 @@ ads: false
 
 * Dr. Michael Burke
 * Bolelang Sebola
-* Mbulelo Ntlangu
 
-### Project Mentors/Support
+### Project Mentors
+
+* Nhlamulo Chauke
+* Asive Dlaba
+* Albert Dove
+* Jonathan Gerrand
+* Linda Khumalo
+* Ofentswe Lebogo
+* Laing Lourens
+* Anathi Mafuna
+* Antonuis Mamphiswana
+* Perseverance Mbewe
+* Nkosinathi Ndlovu
+* Jessica Nemasisi
+* Ndamulelo Netshiavha
+
+### Workshops
+
+* [Jeff Kelly Lowenstein](https://kellylowenstein.wordpress.com/)
+* [Prof. Michael Littman](http://cs.brown.edu/~mlittman/)
