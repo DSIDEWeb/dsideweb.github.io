@@ -75,6 +75,7 @@ ads: false
 * Amandla Mhlongo
 * Maphuti Mogano
 * Nyalleng Moorosi
+* Tsholofelo Mophosho
 * Nkosinathi Mtambo
 * Dhiren Seetharam
 * Dr. Quentin Williams
