@@ -16,6 +16,13 @@ image:
 <div class="tile">
   <h2 class="post-title"><a href='/get-involved/'>Get Involved</a></h2>
   <p class="post-excerpt">Apply, Submit a project, Attend Open Days</p>
+  <h2 class="post-title">News/Media</h2>
+  <p class="post-excerpt">
+    <ul>
+      <li><a href='http://www.itweb.co.za/index.php?option=com_content&view=article&id=158957'>Students to showcase value of data science</a>
+      </li>
+    </ul>
+</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
