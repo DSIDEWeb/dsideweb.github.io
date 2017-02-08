@@ -111,5 +111,6 @@ ads: false
 
 ### Workshops
 
+* [Geekulcha](geekulcha.com)
 * [Jeff Kelly Lowenstein](https://kellylowenstein.wordpress.com/)
-* [Prof. Michael Littman](http://cs.brown.edu/~mlittman/)
+* [Prof. Michael Littman(Virtually)](http://cs.brown.edu/~mlittman/)
