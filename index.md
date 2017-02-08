@@ -19,9 +19,9 @@ image:
   <h2 class="post-title">News/Media</h2>
   <p class="post-excerpt">
     <ul>
-      <li><a href='http://www.itweb.co.za/index.php?option=com_content&view=article&id=158957'>Students to showcase value of data science</a>
+      <li><a href='http://www.itweb.co.za/index.php?option=com_content&view=article&id=158957'target="_blank" >Students to showcase value of data science</a>
       </li>
-      <li><a href='http://www.dst.gov.za/index.php/media-room/latest-news/2096-young-students-using-science-to-solve-real-problems-in-south-africa'>Young students using science to solve real problems in South Africa</a>
+      <li><a href='http://www.dst.gov.za/index.php/media-room/latest-news/2096-young-students-using-science-to-solve-real-problems-in-south-africa' target="_blank">Young students using science to solve real problems in South Africa</a>
       </li>
     </ul>
 </p>
