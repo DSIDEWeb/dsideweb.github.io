@@ -111,6 +111,8 @@ ads: false
 
 ### Workshops
 
+* Brewnen Ntlangu
+* Edwin Rampine
 * [Geekulcha](geekulcha.com)
 * [Jeff Kelly Lowenstein](https://kellylowenstein.wordpress.com/)
 * [Prof. Michael Littman(Virtually)](http://cs.brown.edu/~mlittman/)
