@@ -14,11 +14,9 @@ ads: false
 
 ## Students
 
-Applications are for 3rd and 4th year students who are interested in getting experience in Data Science through our DSIDE programme. Students should be studying towards a Bachelor’s degree in engineering, computer science, statistics, applied mathematics, economics, public policy and should have a good academic standing.
+We are looking for currently enrolled third, fourth, honours, masters and doctoral year students studying towards a Bachelor’s, master’s, doctoral degree in engineering, science, commerce or arts with majors in computer science, statistics, applied mathematics, economics, entrepreneurship, public policy, graphic design and journalism with good academic standing. 
 
-We also have a couple of spots for graphic design and journalism students.
-
-**Applications are Closed**
+**[Applications are open (Deadline 6 October 2017)](http://bit.ly/DSIDE2017Apply)**
 
 ## Organisations
 
