@@ -35,7 +35,7 @@ ads: false
 * Khutsiso Jackina Matli (UL BSc Hons Statistics)
 * Tebogo Matshana (RU)
 * Augustin thabang Mautjane (UL Bsc Hons Comp Sci)
-* Siyabonga Mbonani (MU)
+* Siyabonga Mbonambi (MU)
 * Rebone Meraba (UCT MSc Bioinformatics)
 * Purity Molala (UL BSc Hons Statistics)
 * Lebohang  Molapo (SMU BSc Hons Statistics)
