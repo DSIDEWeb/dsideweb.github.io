@@ -64,7 +64,7 @@ ads: false
 
 #### University Representation
 
-![University Bar](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYHAhXdDtgAhC93e5vuC81NmHw1W5pst33E99ZXiler4W5UsZUqMQuRIfrqpROZysjaBk3nZQTLglV/pubchart?oid=1095505406&amp;format=image)
+![University Bar](/images/2017-universities.png)
 
 
 ### Program Leads and Staff
