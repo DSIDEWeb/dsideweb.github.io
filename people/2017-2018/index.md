@@ -57,14 +57,15 @@ ads: false
 * Raesetsje Sefala (WITS BSc Hons Big Data and Analytics)
 * TSHEPHISHO SEFARA (UL MSc Computer Science)
 * Michaela Shilton (UP BA Psychology & Statistics)
-* Anri Smith (UCT B.Bus.Sci (Analytics))
+* Anri Smith (UCT B.Bus.Sci (Analytics)
 * Chris Zitha (UL Bsc Hons Computer Science)
 * Themba Mathebula (SMU BSc Mathematics and Applied Mathematics)
 
 
 #### University Representation
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQYHAhXdDtgAhC93e5vuC81NmHw1W5pst33E99ZXiler4W5UsZUqMQuRIfrqpROZysjaBk3nZQTLglV/pubchart?oid=1095505406&amp;format=interactive"  width="800" height="400" ></iframe>
+![University Bar](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYHAhXdDtgAhC93e5vuC81NmHw1W5pst33E99ZXiler4W5UsZUqMQuRIfrqpROZysjaBk3nZQTLglV/pubchart?oid=1095505406&amp;format=image)
+
 
 ### Program Leads and Staff
 
