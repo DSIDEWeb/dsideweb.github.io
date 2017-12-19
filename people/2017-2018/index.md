@@ -64,7 +64,7 @@ ads: false
 
 #### University Representation
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQYHAhXdDtgAhC93e5vuC81NmHw1W5pst33E99ZXiler4W5UsZUqMQuRIfrqpROZysjaBk3nZQTLglV/pubchart?oid=1095505406&amp;format=interactive"  width="1200" height="700"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQYHAhXdDtgAhC93e5vuC81NmHw1W5pst33E99ZXiler4W5UsZUqMQuRIfrqpROZysjaBk3nZQTLglV/pubchart?oid=1095505406&amp;format=interactive"  width="800" height="400" ></iframe>
 
 ### Program Leads and Staff
 
