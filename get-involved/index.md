@@ -16,7 +16,7 @@ ads: false
 
 We are looking for currently enrolled third, fourth, honours, masters and doctoral year students studying towards a Bachelor’s, master’s, doctoral degree in engineering, science, commerce or arts with majors in computer science, statistics, applied mathematics, economics, entrepreneurship, public policy, graphic design and journalism with good academic standing. 
 
-**[Applications are open (Deadline 6 October 2017)](http://bit.ly/DSIDE2017Apply)**
+**[Applications are currently closed (2018/2019 intake will be advertised soon)]())**
 
 ## Organisations
 
