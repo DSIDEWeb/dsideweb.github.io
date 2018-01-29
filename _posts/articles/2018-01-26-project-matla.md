@@ -23,7 +23,8 @@ This project focuses on the prepaid electricity purchasing patterns of customers
 
 ![Dash](/images/project-matla-dash.png)
 
-The Municipality buys electricity from Eskom and administrates the distribution of it to different households around the CoT. It has become apparent for the Municipality that they are encountering a loss in revenue due to alternative power sources (i.e solar power, heat pumps and gas) and unaccounted electricity consumptions.  For the latter, a loss in revenue is accumulated due to customers who do not purchase electricity (i.e. no buyers) and those that purchase low amounts of electricity (i.e. low buyers). It is for this reason that the Municipality must be able to identify customers with abnormal (i.e no buyers and low buyers) and normal purchasing patterns. Overall, this will assist the Municipality to use data-driven counter-measures to optimise the revenue generation. Recency Frequency and Monetary (RFM) analysis and identification of customers using alternative  energy sources was implemented. For the former, RFM was used to categorise the customers based on their purchasing behaviours. From the RFM categories, specifically the categories that contribute to the non-payment rate or low revenue are used to determine possible usage of alternative energy sources. 
+The municipality may experience revenue loss for different reasons. It can be due to alternative power sources (i.e solar power, heat pumps and gas) and unaccounted electricity consumption. Annacounted energy consumption can be in the form of electricity theft through tempering with meters. It is for this reason that the Municipality must be able to identify customers with abnormal (i.e no buyers and low buyers) and normal purchasing patterns. Overall, this will assist the Municipality to use data-driven counter-measures to optimise the revenue generation.
+
 
 ![TeamMentor](/images/project-matla-mentor.jpg)
 

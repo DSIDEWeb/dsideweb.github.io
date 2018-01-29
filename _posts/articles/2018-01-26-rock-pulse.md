@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Rock Pulse"
+title: "Rock Pulse – Early warning and monitoring of rock stability in mines"
 categories: articles
 modified: 2018-01-26T17:01:00-01:00
 tags: [2017]
