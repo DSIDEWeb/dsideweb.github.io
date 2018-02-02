@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Project SANREN"
+title: "Project SANREN: Network utilisation and optimisation"
 categories: articles
 modified: 2018-01-26T17:00:00-01:00
 tags: [2017]

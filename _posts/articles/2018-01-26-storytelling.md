@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Project DSIDE Story Telling"
+title: "Project DSIDE Story Telling: Chronicling and summarising the program for 2017/2018"
 categories: articles
 modified: 2018-01-26T17:01:00-01:00
 tags: [2017]

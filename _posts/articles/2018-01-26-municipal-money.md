@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Project Municipal Money & Youth Explorer"
+title: "Project Municipal Money & Youth Explorer: Investigating youth opportunities based on municipal profiles"
 categories: articles
 modified: 2018-01-26T17:01:00-01:00
 tags: [2017]

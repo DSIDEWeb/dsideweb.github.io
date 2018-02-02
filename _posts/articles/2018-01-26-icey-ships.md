@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Rock Pulse"
+title: "Project Icey Ships: Identification of ships or icebergs from satellite images"
 categories: articles
 modified: 2018-01-26T17:01:00-01:00
 tags: [2017]
