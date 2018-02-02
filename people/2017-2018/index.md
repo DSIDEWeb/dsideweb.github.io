@@ -80,6 +80,7 @@ ads: false
 ### Project Leads
 
 * Dr. Michael Burke
+* Prof. Sonali Das
 
 
 ### Project Mentors
