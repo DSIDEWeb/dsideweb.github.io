@@ -14,7 +14,7 @@ ads: false
 * **Partner**: Department of Environmental Affairs
 * **Students**: Zwivhuya Mashau (UCT), Mafhungo Nevhutalu (UNISA)
 * **Project Lead**: Dr. Quentin Williams
-* **Project Mentors**: Abiodun Modupe
+* **Project Mentors**: Jonathan Gerrand, Nathi Ndlovu
 * **Year**: 2017/2018
 
 ### Project Description
