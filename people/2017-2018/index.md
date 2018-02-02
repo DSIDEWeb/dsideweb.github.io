@@ -70,20 +70,43 @@ ads: false
 ### Program Leads and Staff
 
 * Dr. Vukosi Marivate
+* Louisa Masango
 * Amandla Mhlongo
 * Maphuti Mogano
 * Nyalleng Moorosi
 * Tsholofelo Mophosho
+* Nsovo Ngoveni
 * Dhiren Seetharam
 * Dr. Quentin Williams
 
 ### Project Leads
 
+* Daniel Bar-Lev
 * Dr. Michael Burke
 * Prof. Sonali Das
-
+* Gideon Ferreira
+* Laura Martinus
+* Johan Strydom
 
 ### Project Mentors
+
+* Gary Bezuidenhout
+* Asive Dlaba
+* Albert Dove
+* Jonathan Gerrand
+* Linda Khumalo
+* Laing Lourens
+* Vongani Maluleke
+* Themba Mathebula
+* Antonius Mamphiswana
+* Rory Meyer
+* Lebogang Mere
+* Tyrone Naidoo
+* Nathi Ndlovu
+* Thompho Rambuda
+* Mahlatse Ratsoma
+* Mapitsi Rangata
+
 
 
 ### Workshops
@@ -91,4 +114,5 @@ ads: false
 * Yanelang Motloung
 * Edwin Rampine
 * Abidodun Modupe
+
 
