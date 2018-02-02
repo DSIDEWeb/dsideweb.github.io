@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Advance IO – Identifying irregularities of electricity usage"
+title: "Project Advance IO – Identifying irregularities of electricity usage"
 categories: articles
 modified: 2018-01-26T17:01:00-02:00
 tags: [2017]
