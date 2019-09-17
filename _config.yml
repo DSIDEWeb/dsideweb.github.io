@@ -6,7 +6,7 @@ logo: dside_temp_logo.png # 120x120 px default image used for Twitter summary ca
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
 #url: http://localhost:4000
-url: http://dsideweb.github.io
+url: https://dsideweb.github.io
 
 # Jekyll configuration
 
@@ -33,5 +33,28 @@ owner:
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 
-
-exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
+include:
+  - .htaccess
+exclude:
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp
