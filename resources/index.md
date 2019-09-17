@@ -58,6 +58,6 @@ These are completely optional, but can be great references for participants to k
 ## Development Environment
 
 * We use [Ubuntu](http://www.ubuntu.com/)
-* We use [Anaconda Python Distribution (Python 2.7)](https://www.continuum.io/downloads)
+* We use [Anaconda Python Distribution](https://www.continuum.io/downloads)
 * Learn [Git](https://git-scm.com) + [Gitlab](http://dsidegitlab.mds.csir.co.za)
 * IDE of choice [Pycharm](https://www.jetbrains.com/pycharm/)
