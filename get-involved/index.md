@@ -16,7 +16,7 @@ ads: false
 
 We are looking for currently enrolled third, fourth, honours, masters and doctoral year students studying towards a Bachelor’s, master’s, doctoral degree in engineering, science, commerce or arts with majors in computer science, statistics, applied mathematics, economics, entrepreneurship, public policy, graphic design and journalism with good academic standing. 
 
-**[Applications are open (2018/2019 intake)](https://csir.co.za/vacancies)** Deadline 3 June 2018
+**[Applications are open (2019/2020 intake)](https://www.csir.co.za/vacancies)** Deadline 30 September 2019
 
 ## Organisations
 

@@ -25,5 +25,6 @@ The CSIR DSIDE programme puts emphasis on problem solving, creativity and encour
 
 ### Contact
 
+* Mr. Tshepiso Mokoena (tmokoena1@csir.co.za)
+* Ms. Mahlatse Ratsoma (mratsoma@csir.co.za)
 * Dr. Vukosi Marivate (vmarivate@csir.co.za)
-* Mr. Dhiren Seetharam (dseetharam@csir.co.za)
